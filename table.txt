@@ -1,0 +1,18 @@
+<table id="table_reconections" class="table table-responsive table-hover">
+                <thead>
+                  <tr>
+                    <th scope="col">Type</th>
+                    <th scope="col">Column heading</th>
+                    <th scope="col">Column heading</th>
+                    <th scope="col">Column heading</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="table-success">
+                    <th scope="row">Success</th>
+                    <td>Column content</td>
+                    <td>Column content</td>
+                    <td>Column content</td>
+                  </tr>
+                </tbody>
+              </table>
